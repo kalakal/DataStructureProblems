@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uc9Wzld8da54QfDtLqtZOO/wxpFAWDeAOypApQuQZM3j9DtZWqExrFlytkzoS5ZV5nn57qaW82yY551K4la0Mw==",
+  "success": true,
+  "projectFilePath": "E:\\bridgelab\\DataStruructureAndAlgorithms\\DataStruructureAndAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Faizan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
